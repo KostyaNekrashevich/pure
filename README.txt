@@ -1,0 +1,1 @@
+Put logo.png in this same folder as index.html.
